@@ -1,2 +1,2 @@
 # Business-Intelligence
-Warehousing for payroll to data structures
+Using C++, C, Python and other data sorting platforms to build applications for Business
